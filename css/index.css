@@ -1,0 +1,22 @@
+html {
+    background-color: gold;
+}
+
+h1 {
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    color: black;
+    font-size: large;
+    letter-spacing: 2px;
+    padding: 15px;
+}
+
+li {
+    padding: 15px;
+}
