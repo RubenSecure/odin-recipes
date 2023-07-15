@@ -1,9 +1,10 @@
 html {
-    background-color: gold;
+    background-color: black;
 }
 
 h1 {
     text-align: center;
+    color: white;
 }
 
 ul {
@@ -19,4 +20,38 @@ a {
 
 li {
     padding: 15px;
+}
+
+.pancakes {
+    color: rgb(236,162,77);
+    display: block;
+}
+
+.pancake-image {
+    width: 35%;
+    height: 100px;
+    margin: 1em;
+}
+
+.burger {
+    color: #e5cb7a;
+    display: block;
+    font-size: 40px;
+}
+
+.burger-image {
+    width: 25%;
+    height: 100px;
+    margin: auto 1em;
+}
+
+.welington {
+    color: rgb(198, 140, 40);
+    display: block;
+}
+
+.welington-image {
+    width: 30%;
+    height: 100px;
+    margin: 1em;
 }
